@@ -1,6 +1,6 @@
 # Systemlibrary
 
-The systemlibrary contains all the necessary functions for operating the internal communication and defining all object types, property types, etc.\
+The systemlibrary contains all the necessary functions for operating the internal communication and defining all object types, property types, etc.
 More detailed explanations can be found in the respective readme`s.
 
 ## Overview
