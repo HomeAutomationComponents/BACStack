@@ -1,5 +1,5 @@
 # OOCP
-The OOCP "Object orientatet communication protocol" is a smart home project,
+The OOCP "Object orientet communication protocol" is a smart home project,
 which I started during my studies to integrate various devices into my smart home.
 \
 \
