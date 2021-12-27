@@ -29,7 +29,6 @@
 * Max
 * Decimals
 * Steps
-* OutofService
 * MacAddress
 * FirmwareVersion
 * Applicationversion
