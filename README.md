@@ -1,8 +1,10 @@
-# OOCP
-[Wiki](https://github.com/HomeAutomationComponents/OOCP/wiki/General)
+# BACStack
+[Wiki](https://github.com/HomeAutomationComponents/BACStack/wiki/General)
 
-The OOCP "Object orientet communication protocol" is a smart home project,
-which I started during my studies to integrate various devices into my smart home.
-\
-\
-It is based, similar to the BACnet protocol, on objects which can maintain a large number of properties. 
+German:
+Der BACStack hat sich aus meinem Smart Home Projekt gebildet.
+Nach mehreren Protokollflopps bin ich auf das BACnet IP Protokoll übergegangen
+und möchte meinen Stack nun zur Verfügung stellen.
+
+
+English:
